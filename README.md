@@ -1,6 +1,6 @@
 # Retroscape-App  :iphone:
 <p align="center">
-  <a href="https://github.com/shubham64mehta/Codex-Retroscape">
+  <a href="https://github.com/Shanu1515/Retroscape">
     
   </a>
   </p>
